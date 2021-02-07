@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **angular, nestjs, typescript**
 
-- 📫 How to reach me **lupu60@gmail.com**
-
 - ⚡ Fun fact **“What one programmer can do in one month, two programmers can do in two months.” - Fred Brooks**
 
 <h3 align="left">Connect with me:</h3>
