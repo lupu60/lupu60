@@ -3,6 +3,6 @@
 ```js
 {
   "name": "Bogdan Lupu",
-  "skills":["typescript","angular","nestjs"]
+  "skills":["typescript","express","nestjs","SQL"]
 }
 ```
